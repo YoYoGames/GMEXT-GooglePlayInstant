@@ -7,6 +7,8 @@ This extension will only work on Android.
 
 * Android: `source/GooglePlayInstant_gml/extensions/GooglePlayInstant/AndroidSource/Java/`
 
+<br>
+
 ## Documentation
 
 * Check [the documentation](../../wiki)
