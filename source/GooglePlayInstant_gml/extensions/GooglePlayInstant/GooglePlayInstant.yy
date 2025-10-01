@@ -17,9 +17,9 @@
   "copyToTargets":8,
   "description":"",
   "exportToGame":true,
-  "extensionVersion":"0.0.1",
+  "extensionVersion":"1.0.0",
   "files":[
-    {"$GMExtensionFile":"","%Name":"InstantPlayGames.ext","constants":[],"copyToTargets":8,"filename":"InstantPlayGames.ext","final":"","functions":[
+    {"$GMExtensionFile":"v1","%Name":"InstantPlayGames.ext","constants":[],"copyToTargets":8,"filename":"InstantPlayGames.ext","final":"","functions":[
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_is_instant_app","argCount":0,"args":[],"documentation":"","externalName":"googleplayinstant_is_instant_app","help":"googleplayinstant_is_instant_app()","hidden":false,"kind":4,"name":"googleplayinstant_is_instant_app","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_set_instant_app_cookie","argCount":0,"args":[1,],"documentation":"","externalName":"googleplayinstant_set_instant_app_cookie","help":"googleplayinstant_set_instant_app_cookie(str)","hidden":false,"kind":4,"name":"googleplayinstant_set_instant_app_cookie","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_get_instant_app_cookie_max_size","argCount":0,"args":[],"documentation":"","externalName":"googleplayinstant_get_instant_app_cookie_max_size","help":"googleplayinstant_get_instant_app_cookie_max_size()","hidden":false,"kind":4,"name":"googleplayinstant_get_instant_app_cookie_max_size","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
@@ -28,7 +28,7 @@
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_show_install_prompt","argCount":0,"args":[1,1,],"documentation":"","externalName":"googleplayinstant_show_install_prompt","help":"googleplayinstant_show_install_prompt(title,url)","hidden":false,"kind":4,"name":"googleplayinstant_show_install_prompt","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":1,},
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_instant_apps_enabled","argCount":0,"args":[],"documentation":"","externalName":"googleplayinstant_instant_apps_enabled","help":"googleplayinstant_instant_apps_enabled()","hidden":false,"kind":4,"name":"googleplayinstant_instant_apps_enabled","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":1,},
         {"$GMExtensionFunction":"","%Name":"googleplayinstant_read_instant_app_data","argCount":0,"args":[2,2,2,],"documentation":"","externalName":"googleplayinstant_read_instant_app_data","help":"googleplayinstant_read_instant_app_data(offset, length, buffer_address)","hidden":false,"kind":4,"name":"googleplayinstant_read_instant_app_data","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
-      ],"init":"","kind":4,"name":"InstantPlayGames.ext","order":[],"origname":"","ProxyFiles":[],"resourceType":"GMExtensionFile","resourceVersion":"2.0","uncompress":false,"usesRunnerInterface":false,},
+      ],"init":"","kind":4,"name":"InstantPlayGames.ext","origname":"","ProxyFiles":[],"resourceType":"GMExtensionFile","resourceVersion":"2.0","uncompress":false,"usesRunnerInterface":false,},
   ],
   "gradleinject":"\r\nimplementation \"com.google.android.gms:play-services-instantapps:17.0.0\" \r\n",
   "hasConvertedCodeInjection":true,

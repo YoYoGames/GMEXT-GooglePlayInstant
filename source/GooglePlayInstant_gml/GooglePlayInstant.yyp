@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"GooglePlayInstant",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -21,11 +21,13 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/YoYo Extensions Assets/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"GMEXT-GooglePlayInstant.html","CopyToMask":0,"filePath":"datafiles","name":"GMEXT-GooglePlayInstant.html","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2023.1100.0.441",
+    "IDEVersion":"2024.1400.0.901",
   },
   "name":"GooglePlayInstant",
   "resources":[

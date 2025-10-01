@@ -1,1 +1,1 @@
-* ### [GooglePlayInstant Extension](Home)
+* ### [GooglePlayInstant Extension](home)
